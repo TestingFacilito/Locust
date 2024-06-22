@@ -1,4 +1,4 @@
-![TESTINGDACILITO](img\testingfacilito.png)
+![TESTINGFACILITO](https://media.licdn.com/dms/image/D4E22AQEAOqPNiw3YLA/feedshare-shrink_800/0/1719032896639?e=1721865600&v=beta&t=8AlFMst6NjHO1oDQYG_hA5wViVfeJKsP6JPecKiQdGY)
 
 # PRUEBAS DE PERFORMANCE CON LOCUST 
 
