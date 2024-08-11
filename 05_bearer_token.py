@@ -16,3 +16,4 @@ class generar_token(HttpUser):
             print(f"Token exitoso: {self.token}")
         else:
             print(f"Token fallido: {response.status_code}")
+            
